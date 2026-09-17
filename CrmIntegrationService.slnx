@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/CrmIntegrationService/CrmIntegrationService.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/CrmIntegrationService.IntegrationTests/CrmIntegrationService.IntegrationTests.csproj" />
+    <Project Path="tests/CrmIntegrationService.Tests/CrmIntegrationService.Tests.csproj" />
+  </Folder>
+</Solution>
